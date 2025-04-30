@@ -69,4 +69,4 @@ node_modules/
 .dataconnect
 
 # Ignore frontend directory
-frontend/
+#frontend/
